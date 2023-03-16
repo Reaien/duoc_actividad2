@@ -5,8 +5,8 @@
 
 .contenedor{
     display: grid;
-    grid-template-rows: 200px 245px 245px 245px;
-    grid-template-columns: 4fr 4fr 4fr 4fr;
+    grid-template-rows: 15rem 15rem 15rem 15rem;
+    grid-template-columns: 2fr 4fr 4fr 4fr;
     grid-template-areas: 
     "area1 area2 area2 area2"
     "area1 area3 area3 area3"
